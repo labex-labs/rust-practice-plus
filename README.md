@@ -9,8 +9,8 @@ In this course, You will practice more labs of Rust. This will help you to maste
 
 ## Scenarios
 
-|   Index | Name                                                     | Difficulty   | URL                                                                  |
-|---------|----------------------------------------------------------|--------------|----------------------------------------------------------------------|
+|   Index | Name                                                    | Difficulty   | URL                                                                  |
+|---------|---------------------------------------------------------|--------------|----------------------------------------------------------------------|
 |     001 | 📖 Defining Modules to Control Scope and Privacy         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/100402'>Start Lab</a> |
 |     002 | 📖 Refutability in Rust Pattern Matching                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/100445'>Start Lab</a> |
 |     003 | 📖 Rust Metaprogramming with Macros                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/99223'>Start Lab</a>  |
