@@ -246,6 +246,7 @@ In this course, You will practice more labs of Rust. This will help you to maste
 
 ## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Rust Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Rust Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [Rust Free Tutorials](https://github.com/labex-labs/rust-free-tutorials)
 
