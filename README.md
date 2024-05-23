@@ -9,7 +9,7 @@ In this course, You will practice more labs of Rust. This will help you to maste
 
 ## Scenarios
 
-|   Index | Name                                                    | Difficulty   | URL                                                                  |
+|   Index | Name                                                    | Difficulty   | Practice                                                             |
 |---------|---------------------------------------------------------|--------------|----------------------------------------------------------------------|
 |     001 | 📖 Defining Modules to Control Scope and Privacy         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/100402'>Start Lab</a> |
 |     002 | 📖 Refutability in Rust Pattern Matching                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/100445'>Start Lab</a> |
@@ -243,4 +243,9 @@ In this course, You will practice more labs of Rust. This will help you to maste
 |     230 | 📖 Rust Macros Exploration in LabEx                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/100451'>Start Lab</a> |
 |     231 | 📖 Graceful Shutdown and Cleanup                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/100454'>Start Lab</a> |
 |     232 | 📖 RefCell<T> and the Interior Mutability Pattern        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/100435'>Start Lab</a> |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Rust Free Tutorials](https://github.com/labex-labs/rust-free-tutorials)
 
